@@ -26,4 +26,4 @@ hand is used to zoom out,
 You can any additional functions using fist and thumbdowm gesture.
 
 
-Hand gestures are shown in images.
+Hand gestures are shown in Sample Test Input Folder.
